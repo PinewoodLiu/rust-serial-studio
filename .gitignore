@@ -1,0 +1,9 @@
+/target/
+/dist/
+/.reference/
+*.log
+*.tmp
+/.publish/
+.DS_Store
+Thumbs.db
+
